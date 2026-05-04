@@ -12,11 +12,3 @@ def build_sigma() -> str:
 
 if __name__ == "__main__":
     print(build_sigma())
-
-
-
-
-
-
-
-    
