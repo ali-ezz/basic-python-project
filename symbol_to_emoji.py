@@ -5,6 +5,8 @@ from ASCII emoticons to emoji. It is a utility for demonstration and
 learning purposes.
 """
 
+from typing import List
+
 EMOJI_MAP = {
     ";)": "😉",
     ":)": "🙂",
@@ -13,7 +15,7 @@ EMOJI_MAP = {
 }
 
 
-def emojify(tokens: list[str]) -> str:
+def emojify(tokens: List[str]) -> str:
     """Map a list of tokens to their emoji equivalents where available."""
     return " ".join(EMOJI_MAP.get(t, t) for t in tokens)
 
