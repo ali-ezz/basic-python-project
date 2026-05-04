@@ -6,6 +6,9 @@ Badges
 ------
 
 [![Python CI](https://github.com/ali-ezz/basic-python-project/actions/workflows/python-ci.yml/badge.svg)](https://github.com/ali-ezz/basic-python-project/actions)
+[![CodeQL](https://github.com/ali-ezz/basic-python-project/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/ali-ezz/basic-python-project/actions)
+[![Coverage Status](https://codecov.io/gh/ali-ezz/basic-python-project/branch/main/graph/badge.svg)](https://codecov.io/gh/ali-ezz/basic-python-project)
+[![Release](https://img.shields.io/github/v/release/ali-ezz/basic-python-project?color=brightgreen)](https://github.com/ali-ezz/basic-python-project/releases)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 Overview
