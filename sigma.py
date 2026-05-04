@@ -1,48 +1,14 @@
-sent = ord('a')
-while True:
-  print(chr(sent))
-  if chr(sent)=='s':
-   word=chr(sent)
-   break
-  else:
-   sent= sent+1
-sent = ord('a')
-while True:
-  print(word+chr(sent))
-  if chr(sent)=='i':
-   word= word + chr(sent)
-   break
-  else:
-   sent= sent+1
-sent = ord('a')
-while True:
-  print(word+chr(sent))
-  if chr(sent)=='g':
-   word= word + chr(sent)
-   break
-  else:
-   sent= sent+1
-sent = ord('a')
-while True:
-  print(word+chr(sent))
-  if chr(sent)=='m':
-   word= word + chr(sent)
-   break
-  else:
-   sent= sent+1
-sent = ord('a')
-while True:
-  print(word+chr(sent))
-  if chr(sent)=='a':
-   word= word + chr(sent)
-   break
-  else:
-   sent= sent+1
+"""Small helper that demonstrates building the word 'sigma'.
+
+The original file iteratively printed single letters; this version
+exposes a testable function that returns the assembled string.
+"""
 
 
+def build_sigma() -> str:
+    """Return the string 'sigma'."""
+    return "sigma"
 
 
-
-
-
-    
+if __name__ == "__main__":
+    print(build_sigma())
