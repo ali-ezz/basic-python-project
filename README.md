@@ -5,7 +5,7 @@ Small collection of beginner Python utility scripts and exercises.
 Badges
 ------
 
-[![Python CI](https://github.com/USERNAME/REPO/actions/workflows/python-ci.yml/badge.svg)](https://github.com/USERNAME/REPO/actions)
+[![Python CI](https://github.com/ali-ezz/basic-python-project/actions/workflows/python-ci.yml/badge.svg)](https://github.com/ali-ezz/basic-python-project/actions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 Overview
